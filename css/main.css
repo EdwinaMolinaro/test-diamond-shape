@@ -1,8 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background-image: url("../img/unikke.jpg"); 
-  background-size: cover;
+  background: #000;
   background-attachment: fixed;
 }
 
