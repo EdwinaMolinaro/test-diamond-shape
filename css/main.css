@@ -38,9 +38,6 @@ ul li{
   }
 }
 
-ul li:hover{
-  opacity: 1;
-}
 
 ul li.item1{
   top: 0;
